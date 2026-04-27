@@ -115,8 +115,14 @@ Key questions include:
 
 
 6. Screenshots / Demos
-![Dashboard Preview](https://github.com/atharva-patil16/Loan-Default-Analysis/blob/main/1.png).
+![Dashboard Preview](https://github.com/atharva-patil16/Loan-Default-Analysis/blob/main/1.png)
+
+
+
 
 ![Dashboard Preview](https://github.com/atharva-patil16/Loan-Default-Analysis/blob/main/2.png)
+
+
+
 
 ![Dashboard Preview](https://github.com/atharva-patil16/Loan-Default-Analysis/blob/main/3.png)
